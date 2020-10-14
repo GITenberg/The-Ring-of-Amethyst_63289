@@ -1,0 +1,31 @@
+_repo: The-Ring-of-Amethyst_63289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rollins, Alice Wellington
+    aliases:
+    - Rollins, Alice Marland Wellington
+    - Wellington, Alice
+    - Rollins, Alice W. (Alice Wellington)
+    - Wellington, Allie
+    birthdate: 1847
+    deathdate: 1897
+    gutenberg_agent_id: '52362'
+    url: http://www.gutenberg.org/2009/agents/52362
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Wellington_Rollins
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63289'
+  lccn: '30003816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+- GITenberg
+title: The Ring of Amethyst
+url: http://www.gutenberg.org/ebooks/63289
